@@ -1,16 +1,11 @@
-# todo_app
 
-A new Flutter project.
+# TODO APP built using Flutter and Firebase
 
-## Getting Started
+- 🔥 Firebase Firestore
+- 🔥 Firebase Auth - Google signIn
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/ashishpipaliya/todo-firebase/assets/32923529/9df570b2-e7fd-4b2d-93fe-136004524de7" width="30%"></img> <img src="https://github.com/ashishpipaliya/todo-firebase/assets/32923529/0d5e8362-83ed-4a7b-808d-8f03269d1cdc" width="30%"></img> <img src="https://github.com/ashishpipaliya/todo-firebase/assets/32923529/1ffe74ab-c580-4691-9d76-780a300b2dd4" width="30%"></img> 
